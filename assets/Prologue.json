@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Welcome player\nSo we need your help...\nThere are several components of the machines in our factory that are incomplete\nWe want you to deliver the components into the teleporter machine\nBut remember...\nThis task is'nt about speed\nBut it's about precision\nThere is no time limit in this task\nWe just want you to deliver the components safely\nOkay that's all I want to say\nGood luck\n<<end>> >>",
+		"position": {
+			"x": 375,
+			"y": 211
+		},
+		"colorID": 0
+	}
+]

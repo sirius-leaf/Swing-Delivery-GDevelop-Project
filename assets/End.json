@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Congratulation player\nYou did it\nYou have deliver all the components safely\nAnd it's all thanks to your help\nFinally, now we can repair the machines in our factory\n<<end>> >>",
+		"position": {
+			"x": 375,
+			"y": 211
+		},
+		"colorID": 0
+	}
+]
